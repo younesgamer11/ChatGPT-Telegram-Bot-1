@@ -3,10 +3,10 @@ import telegram
 import telegram.ext as ext
 
 # Set up OpenAI API key
-openai.api_key = 'OpenAI_API_key'
+openai.api_key = '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'
 
 # Set up Telegram bot API token
-bot_token = 'Telegram_Bot_API'
+bot_token = '6247953312:AAFV_mYUJEzr3vd5qQtRfJCkQU6g54NxmhE'
 bot = telegram.Bot(token=bot_token)
 
 # Define a function to generate a response using the OpenAI API
